@@ -2,11 +2,5 @@
 
 ```diff
 el funeral.
-
-@@The stars have already died@@
-+ cats
-- dog
-! music
-# sad
 ```
 
